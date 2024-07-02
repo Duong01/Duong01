@@ -9,5 +9,6 @@
 
 
 ## Connect with me
-https://www.instagram.com/duongbg01/
-https://www.facebook.com/duongitbg01
+
+[![Facebook](https://image-url-to-facebook-icon.png)](https://www.facebook.com/duongitbg01)
+[![Instagram](https://image-url-to-instagram-icon.png)](https://www.instagram.com/duongbg01)
