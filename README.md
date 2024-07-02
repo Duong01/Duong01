@@ -10,5 +10,7 @@
 
 ## Connect with me
 
-[![Facebook](https://image-url-to-facebook-icon.png)](https://www.facebook.com/duongitbg01)
-[![Instagram](https://image-url-to-instagram-icon.png)](https://www.instagram.com/duongbg01)
+
+[![Facebook](https://example.com/facebook-icon.png)](https://www.facebook.com/duongitbg01)
+[![Instagram](https://example.com/instagram-icon.png)](https://www.instagram.com/duongbg01)
+
