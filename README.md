@@ -5,8 +5,12 @@
 - 📚 My major is Information System
 - 🖥️ I am learning and working in VueJS language
 - ⚡ My hobbies are listening to music and playing sports
+
+
 <h2>Language</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duong01&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+</br>
+
 <h2>🚀Connect with Me </h2>
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/duongitbg01" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" /></a>  
