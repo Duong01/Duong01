@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Duong!
+<h2> Hey there! I'm Hue! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
 ## About me
 
 - 🎓 I'm a student at Ha Noi University of Industry
