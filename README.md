@@ -1,4 +1,4 @@
-<h2 style: border:none>Hi there 👋 I'm Duong! </h2>
+<h2 style="border-bottom: none;">Hi there 👋 I'm Duong! </h2>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
 <h2>👨‍💻About me </h2>
 
@@ -20,5 +20,5 @@
 &nbsp; <a href="nguyenvanduongit01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png"  width="50" /></a>
 </p>
 
-
+-->
 
