@@ -11,6 +11,6 @@
 ## Connect with me
 
 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg)](https://www.facebook.com/duongitbg01)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/duongitbg01)
 [![Instagram](https://example.com/instagram-icon.png)](https://www.instagram.com/duongbg01)
 
