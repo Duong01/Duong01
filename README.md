@@ -10,7 +10,6 @@
 
 ## Connect with me
 
-
 [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/duongitbg01)
-[![Instagram](https://example.com/instagram-icon.png)](https://www.instagram.com/duongbg01)
+[![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQA29UZof2pHMjPlnL2w_HTGEdm3YJ8Z1D3A&s)](https://www.instagram.com/duongbg01)
 
