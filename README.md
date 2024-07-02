@@ -11,6 +11,6 @@
 ## Connect with me
 
 
-[![Facebook](https://example.com/facebook-icon.png)](https://www.facebook.com/duongitbg01)
+[![Facebook]([https://example.com/facebook-icon.png](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg))](https://www.facebook.com/duongitbg01)
 [![Instagram](https://example.com/instagram-icon.png)](https://www.instagram.com/duongbg01)
 
