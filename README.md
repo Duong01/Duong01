@@ -1,16 +1,17 @@
 ## Hi there 👋 I'm Duong!
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
-## About me
+## 👨‍💻About me
 
 - 🎓 I'm a student at Ha Noi University of Industry
 - 📚 My major is Information System
 - 🖥️ I am learning and working in VueJS language
+- ⚡ My hobbies are listening to music and playing sports
 
 ## Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duong01&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-## Connect with me
+## 🚀Connect with me
 
 
 <p align="center">
