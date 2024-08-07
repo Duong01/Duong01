@@ -5,7 +5,7 @@
 
 - 🎓&nbsp; I'm a student at Ha Noi University of Industry <br>
 - 📚 &nbsp; My major is Information System <br> 
-- 🖥️ &nbsp; I am learning and working in VueJS language <br>
+- 🖥️ &nbsp; I am learning and working in VueJS and C# language <br>
 - ⚡&nbsp;My hobbies are listening to music and playing sports <br>
 
 <h3>Language</h3>
